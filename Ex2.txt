@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 0 0 0 1 liushuai Ex2 No.1
+=======
+1 0 0 0 liushuai Ex2 No.1
+>>>>>>> Stashed changes
